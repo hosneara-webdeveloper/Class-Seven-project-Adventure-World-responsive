@@ -1,0 +1,83 @@
+@media (max-width: 991px) {
+    nav {
+        display: none;
+    }
+
+    .nav-icon{
+        display: flex;
+        padding: 15px 0;
+        font-size: 30px;
+    }
+
+    
+   
+
+
+} 
+
+@media ( max-width:767px) {
+
+    .contact-content{
+        text-align: center;
+        align-items: center;
+
+
+    }
+
+    .contact-us {
+
+    text-align: center;
+    padding: 50px 0;
+
+    color: #fff;
+    position: relative;
+
+
+}
+
+.contact-us h2 {
+    font-size: 30px;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+
+}
+
+
+     .contact-text h1{
+       display: none;
+
+    }
+
+
+    .contact-text h4{
+        font-size: 22px;
+ 
+
+
+
+    }
+
+
+    .contact-us{
+
+    }
+    .contact-us span{
+        display: none;
+
+    }
+
+}
+
+@media ( max-width: 575px) {
+    .tour{
+
+    }
+    .tour h2{
+        font-size: 20px;
+    }
+
+    .item p{
+        font-size: 14px;
+    }
+}
